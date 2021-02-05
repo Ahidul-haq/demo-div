@@ -1,0 +1,61 @@
+.header{
+	background-color: #00FFFF;
+	min-height: 100px;
+}
+.wreppar{
+	overflow: hidden;
+
+}
+.lo{
+	min-height: 150px;
+	width:33.33%;
+	float:left;
+}
+.nid1{
+	background-color: #9932CC;
+
+}
+.nid2{
+	background-color:#ADFF2F;
+
+}
+.nid3{
+	background-color:#E0FFFF; 
+}
+
+.about{
+overflow: hidden;
+
+}
+
+.we{
+    background-color: #B0C4DE;
+    min-height: 150px;
+    width:70%;
+    float: left;
+
+
+}
+.are{
+	background-color: #FFDEAD;
+	min-height: 150px;
+	width:30%;
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.king{
+	background-color: black;
+	min-height: 100px;
+}
